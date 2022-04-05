@@ -18,7 +18,7 @@ clear: both;
 }
 
 html {
-  font-size: 10px;
+  font-size: 62.5%;
 }
 
 main {
@@ -37,6 +37,7 @@ span {
   font-size: 5rem;
   line-height: 60px;
   margin: 0 auto;
+  padding: 0 5%;
   text-align: right;
 }
 .keypad {
